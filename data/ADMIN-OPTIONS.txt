@@ -1,0 +1,14 @@
+==== Welcome =====
+
+1)Access Details of all Accounts
+
+2)Create new account
+
+3)Edit an account
+
+4)Interest Downpayment
+
+5)Exit admin prompt...
+==================================
+
+

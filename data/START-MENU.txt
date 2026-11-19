@@ -1,0 +1,22 @@
+======================================================
+=== Welcome to Bank ===
+
+1) Apply for an account
+
+2)Check account progression 
+
+3) Account info
+
+4) Deposit
+
+5) Withdraw
+
+6) Edit account detail
+
+7) Transfer amount
+
+8) Quit
+
+A) Admin
+
+=======================================================
